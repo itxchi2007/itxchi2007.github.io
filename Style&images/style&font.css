@@ -30,8 +30,8 @@ ol{font-family: cursive;color:rgb(220, 234, 240);
     text-align: justify;font-size: 20px;line-height:3rem;
  }
 footer{font-size: 9px;
-     ;position:fixed;bottom: 1px;right: 3px;
-     padding-top: 1rem;
+     ;position:fixed;bottom:1px;right: 3px;
+     padding-top:1rem;
     }
 a{text-decoration: none;color: rgb(220, 234, 240);
 }
@@ -48,4 +48,5 @@ body{background-image: url('Style&images/bg.jpg');
     image-resolution: 1080px;
 
 }
+
 
