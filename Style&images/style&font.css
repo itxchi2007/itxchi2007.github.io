@@ -35,7 +35,7 @@ footer{font-size: 9px;
     }
 a{text-decoration: none;color: rgb(220, 234, 240);
 }
-body{background-image: url('C:/ramstudentinfo/Style&images/bg.jpg');
+body{background-image: url('Style&images/bg.jpg');
     background-repeat: no-repeat;background-size:100vw;
     background-position-x: center;
     background-position-y: center;
@@ -46,4 +46,5 @@ body{background-image: url('C:/ramstudentinfo/Style&images/bg.jpg');
     background-position-x: center;
     background-position-y: center;
     image-resolution: 1080px;
+
 }
