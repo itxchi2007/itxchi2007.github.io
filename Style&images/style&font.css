@@ -41,10 +41,11 @@ body{background-image: url('Style&images/bg.jpg');
     background-position-y: center;
     image-resolution: 1080px;
 }
-.mainbg{background-image: url('C:/ramstudentinfo/Style&images/mainbg.jpg');
+.mainbg{background-image: url('Style&images/mainbg.jpg');
     background-repeat: no-repeat;background-size: 100vw;
     background-position-x: center;
     background-position-y: center;
     image-resolution: 1080px;
 
 }
+
